@@ -235,37 +235,35 @@ how production software is built and maintained.
 
 # 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Shalinihr1402&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Shalinihr1402&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Shalini's GitHub Stats"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalinihr1402&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
+    alt="Top Languages"
   />
 </p>
 
 ---
 
 # 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Shalinihr1402&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Shalinihr1402&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
-
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-contribution-grid-snake-dark.svg
 
 ---
 
