@@ -5,17 +5,7 @@
 Building practical full-stack and AI-powered applications while continuously learning,
 solving real-world problems, and working toward becoming a Software Engineer.
 
-<p align="center">
-  <a href="https://github.com/Shalinihr1402">
-    <img src="https://img.shields.io/github/followers/Shalinihr1402?style=flat&label=Followers"/>
-  </a>
-  <a href="https://github.com/Shalinihr1402">
-    <img src="https://img.shields.io/github/stars/Shalinihr1402?style=flat&label=Stars"/>
-  </a>
-  <a href="mailto:shalinidvg16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"/>
-  </a>
-</p>
+
 
 ---
 
