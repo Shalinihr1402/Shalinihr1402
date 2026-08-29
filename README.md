@@ -231,41 +231,6 @@ their skills, explore career paths and receive personalized recommendations.
 
 </td>
 
-<td width="50%">
-
-<h3>👁️ Voice-Vision Assistant for Blind</h3>
-
-<strong>AI-Powered Accessibility Assistant</strong>
-
-<p>
-An accessibility-focused application combining computer vision and voice
-interaction to assist visually impaired users.
-</p>
-
-<strong>✨ Key Features</strong>
-
-<ul>
-<li>🎤 Voice interaction</li>
-<li>👁️ Computer vision</li>
-<li>🔍 Object detection</li>
-<li>🧠 AI-powered visual understanding</li>
-<li>🔊 Voice feedback</li>
-<li>♿ Accessibility-focused design</li>
-<li>📱 Real-time assistance</li>
-</ul>
-
-<strong>Tech:</strong>
-
-`Python` `YOLOv5` `OpenCV` `ONNX` `TFLite`
-
-<br><br>
-
-<a href="https://github.com/Shalinihr1402/Voice-Vision-Assistant-for-Blind">
-  🔗 View Repository
-</a>
-
-</td>
-
 </tr>
 </table>
 
@@ -278,16 +243,6 @@ interaction to assist visually impaired users.
 Currently exploring and contributing to open-source projects while learning
 how production software is built and maintained.
 
-### 🔎 Areas I'm Exploring
-
-- ☕ Java & Spring Boot
-- 🏗️ Hibernate & JPA
-- 🌐 Full Stack Development
-- 🤖 AI / Machine Learning
-- 🧠 LLM Applications
-- ♿ Accessibility Technology
-- 🎓 Education Technology
-- 🛠️ Developer Tools
 
 ### 🌱 My Open Source Goals
 
@@ -335,22 +290,61 @@ how production software is built and maintained.
 </p>
 
 ---
+
 # 🎯 Current Focus
 
+<p align="left">
 
-☕ Java & Spring Boot
-🏗️ Hibernate & JPA
-🌐 Full Stack Web Development
-🤖 AI / ML Applications
-🧠 LLMs & RAG
-🔗 REST API Development
-🧩 Data Structures & Algorithms
-🌍 Open Source Contributions
-🚀 Software Engineering
+☕ <strong>Java & Spring Boot</strong><br>
+🏗️ <strong>Hibernate & JPA</strong><br>
+🌐 <strong>Full Stack Web Development</strong><br>
+🤖 <strong>AI / ML Applications</strong><br>
+🧠 <strong>LLMs & RAG</strong><br>
+🔗 <strong>REST API Development</strong><br>
+🧩 <strong>Data Structures & Algorithms</strong><br>
+🌍 <strong>Open Source Contributions</strong><br>
+🚀 <strong>Software Engineering</strong>
 
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/shalini-h-r-90862a251"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shalini-dvg16@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Shalinihr1402"> <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-💡 Developer Philosophy
+</p>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-Build. Learn. Contribute. Repeat. 🚀
+
+<a href="https://www.linkedin.com/in/shalini-h-r-90862a251">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shalinidvg16@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shalinihr1402">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+<p align="center">
+
+### Build. Learn. Contribute. Repeat. 🚀
+
+</p>
+
+<p align="center">
+⭐ If you find my projects useful, consider giving them a star!
+</p>
+
+---
+
+<p align="center">
+
+### 👩‍💻 From Shalini — building, learning and growing every day 🚀
+
 </p>
