@@ -255,23 +255,30 @@ how production software is built and maintained.
 
 ---
 
+
+---
+
 # 📈 GitHub Activity
 
 <p align="center">
 
 <a href="https://github.com/Shalinihr1402">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinihr1402&theme=tokyo-night&hide_border=true"
-    alt="Shalini's GitHub Activity Graph"
-  />
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinihr1402&theme=tokyo-night&hide_border=true&area=true"
+  alt="Shalini's GitHub Activity Graph"
+/>
+
 </a>
 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shalinihr1402">
-    View my complete GitHub contribution activity →
-  </a>
+
+<a href="https://github.com/Shalinihr1402">
+  View my complete GitHub contribution activity →
+</a>
+
 </p>
 
 ---
