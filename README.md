@@ -1,11 +1,25 @@
 # 👋 Hi, I'm Shalini
 
-<center> ### 🎓 MCA Student | 💻 Full Stack Web Developer | 🚀 Aspiring Software Engineer | 🤖 AI/ML Enthusiast </center>
+<p align="center">
+  <strong>🎓 MCA Student | 💻 Full Stack Web Developer | 🚀 Aspiring Software Engineer | 🤖 AI/ML Enthusiast</strong>
+</p>
 
-Building practical full-stack and AI-powered applications while continuously learning,
-solving real-world problems, and working toward becoming a Software Engineer.
+<p align="center">
+  Building practical full-stack and AI-powered applications while continuously learning,
+  solving real-world problems, and working toward becoming a Software Engineer.
+</p>
 
-
+<p align="center">
+  <a href="https://github.com/Shalinihr1402">
+    <img src="https://img.shields.io/github/followers/Shalinihr1402?style=flat&label=Followers" />
+  </a>
+  <a href="https://github.com/Shalinihr1402">
+    <img src="https://img.shields.io/github/stars/Shalinihr1402?style=flat&label=Stars" />
+  </a>
+  <a href="mailto:shalinidvg16@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -69,10 +83,10 @@ solving real-world problems, and working toward becoming a Software Engineer.
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/LLM-Applications-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OCR-AI-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-Agents-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Applications-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OCR-AI-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-green?style=for-the-badge" />
 </p>
 
 ## 🔧 Tools & Platforms
@@ -90,15 +104,14 @@ solving real-world problems, and working toward becoming a Software Engineer.
 
 <td width="50%">
 
-## 🎙️ GMU VoiceBot Assistant
+### 🎙️ GMU VoiceBot Assistant
 
 **Multilingual AI Voice Assistant for University ERP**
 
 A voice-based AI assistant that helps university students access academic
 and administrative information through natural voice interaction.
 
-### ✨ Features
-
+**Key Features**
 - 🎤 Voice-based interaction
 - 🌐 English, Hindi & Kannada
 - 📊 Result & SGPA queries
@@ -112,21 +125,20 @@ and administrative information through natural voice interaction.
 **Tech:**  
 `React` `PHP` `MySQL` `Vapi` `Deepgram` `OpenAI`
 
-[🔗 View Repository](https://github.com/Shalinihr1402/gmu-voice-assistant)
+🔗 [View Repository](https://github.com/Shalinihr1402/gmu-voice-assistant)
 
 </td>
 
 <td width="50%">
 
-## 🎓 ScholarSense AI
+### 🎓 ScholarSense AI
 
 **OCR-Driven Scholarship Intelligence & Decision Support System**
 
 An AI-powered scholarship platform designed to analyze scholarship status,
 identify application issues and provide actionable guidance.
 
-### ✨ Features
-
+**Key Features**
 - 📷 OCR screenshot analysis
 - 🔍 Scholarship status analysis
 - 🧠 Failure diagnosis
@@ -140,7 +152,7 @@ identify application issues and provide actionable guidance.
 **Tech:**  
 `React` `Node.js` `Express.js` `Python` `OCR` `RAG`
 
-[🔗 View Repository](https://github.com/Shalinihr1402/ScholarSense-AI-)
+🔗 [View Repository](https://github.com/Shalinihr1402/ScholarSense-AI-)
 
 </td>
 
@@ -150,15 +162,14 @@ identify application issues and provide actionable guidance.
 
 <td width="50%">
 
-## 🧭 AI Personal Career Counselor
+### 🧭 AI Personal Career Counselor
 
 **AI-Powered Career Guidance & Learning Assistant**
 
 An intelligent career guidance application that helps users understand
 their skills, explore career paths and receive personalized recommendations.
 
-### ✨ Features
-
+**Key Features**
 - 🎯 Career recommendations
 - 🧠 AI skill analysis
 - 📚 Learning roadmaps
@@ -170,7 +181,32 @@ their skills, explore career paths and receive personalized recommendations.
 **Tech:**  
 `Python` `AI/ML` `LLM` `FastAPI` `React`
 
-[🔗 View Repository](https://github.com/Shalinihr1402/AI-Personal-Career-Counselor)
+🔗 [View Repository](https://github.com/Shalinihr1402/AI-Personal-Career-Counselor)
+
+</td>
+
+<td width="50%">
+
+### 👁️ Voice-Vision Assistant for Blind
+
+**AI-Powered Accessibility Assistant**
+
+An accessibility-focused application combining computer vision and voice
+interaction to assist visually impaired users.
+
+**Key Features**
+- 🎤 Voice interaction
+- 👁️ Computer vision
+- 🔍 Object detection
+- 🧠 AI-powered visual understanding
+- 🔊 Voice feedback
+- ♿ Accessibility-focused design
+- 📱 Real-time assistance
+
+**Tech:**  
+`Python` `YOLOv5` `OpenCV` `ONNX` `TFLite`
+
+🔗 [View Repository](https://github.com/Shalinihr1402/Voice-Vision-Assistant-for-Blind)
 
 </td>
 
@@ -209,8 +245,6 @@ how production software is built and maintained.
 
 # 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Shalinihr1402&show_icons=true&theme=tokyonight&hide_border=true"
@@ -225,7 +259,6 @@ how production software is built and maintained.
 ---
 
 # 🔥 GitHub Streak
-## 🔥 GitHub Streak
 
 <p align="center">
   <img
@@ -233,11 +266,27 @@ how production software is built and maintained.
     alt="GitHub Streak"
   />
 </p>
+
 ---
 
 # 🐍 Contribution Snake
 
-https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-contribution-grid-snake-dark.svg
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
 
 ---
 
@@ -253,39 +302,3 @@ https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-cont
 🧩 Data Structures & Algorithms
 🌍 Open Source Contributions
 🚀 Software Engineering
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shalini-h-r-90862a251">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shalinidvg16@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shalinihr1402">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💡 Developer Philosophy
-
-### Build. Learn. Contribute. Repeat. 🚀
-
-⭐ If you find my projects useful, consider giving them a star!
-
----
-
-<p align="center">
-
-### 👩‍💻 From Shalini — building, learning and growing every day 🚀
-
-</p>
