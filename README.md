@@ -19,7 +19,7 @@
   <a href="https://github.com/Shalinihr1402">
     <img src="https://img.shields.io/github/stars/Shalinihr1402?style=flat&label=Stars" />
   </a>
-  <a href="mailto:shalini-dvg16@gmail.com">
+  <a href="mailto:shalinidvg16@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -35,7 +35,7 @@
 - 🤖 Exploring AI/ML, LLMs, RAG, OCR & AI Agents
 - 🧠 Actively practicing Data Structures & Algorithms
 - 🌍 Exploring Open Source and collaborative development
-- 🚀 Aspiring to build scalable and impactful software products
+- 🚀 Aspiring to become a Software Engineer and build scalable software products
 
 ---
 
@@ -55,19 +55,32 @@
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+## ☕ Java & Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JPA-2C3E50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+</p>
+
+## 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c" />
 </p>
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 </p>
 
-## ⚙️ Backend
+## ⚙️ Backend & Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi" />
@@ -79,13 +92,13 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
-## 🤖 AI / ML
+## 🤖 AI / Machine Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
 </p>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/LLM%20Applications-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OCR-AI-orange?style=for-the-badge" />
@@ -107,57 +120,75 @@
 
 <td width="50%">
 
-### 🎙️ GMU VoiceBot Assistant
+<h3>🎙️ GMU VoiceBot Assistant</h3>
 
-**Multilingual AI Voice Assistant for University ERP**
+<strong>Multilingual AI Voice Assistant for University ERP</strong>
 
+<p>
 A voice-based AI assistant that helps university students access academic
 and administrative information through natural voice interaction.
+</p>
 
-**Key Features**
+<strong>✨ Key Features</strong>
 
-- 🎤 Voice-based interaction
-- 🌐 English, Hindi & Kannada
-- 📊 Result & SGPA queries
-- 📚 Attendance queries
-- 💰 Fee balance queries
-- 🧑‍🎓 Student information
-- 🧭 Voice-controlled navigation
-- 🤖 LLM-powered intent understanding
-- 🔊 Speech-to-Text & Text-to-Speech
+<ul>
+<li>🎤 Voice-based interaction</li>
+<li>🌐 English, Hindi & Kannada</li>
+<li>📊 Result & SGPA queries</li>
+<li>📚 Attendance queries</li>
+<li>💰 Fee balance queries</li>
+<li>🧑‍🎓 Student information</li>
+<li>🧭 Voice-controlled navigation</li>
+<li>🤖 LLM-powered intent understanding</li>
+<li>🔊 Speech-to-Text & Text-to-Speech</li>
+</ul>
 
-**Tech:**  
+<strong>Tech:</strong>
+
 `React` `PHP` `MySQL` `Vapi` `Deepgram` `OpenAI`
 
-🔗 [View Repository](https://github.com/Shalinihr1402/gmu-voice-assistant)
+<br><br>
+
+<a href="https://github.com/Shalinihr1402/gmu-voice-assistant">
+  🔗 View Repository
+</a>
 
 </td>
 
 <td width="50%">
 
-### 🎓 ScholarSense AI
+<h3>🎓 ScholarSense AI</h3>
 
-**OCR-Driven Scholarship Intelligence & Decision Support System**
+<strong>OCR-Driven Scholarship Intelligence & Decision Support System</strong>
 
+<p>
 An AI-powered scholarship platform designed to analyze scholarship status,
 identify application issues and provide actionable guidance.
+</p>
 
-**Key Features**
+<strong>✨ Key Features</strong>
 
-- 📷 OCR screenshot analysis
-- 🔍 Scholarship status analysis
-- 🧠 Failure diagnosis
-- 📊 Readiness assessment
-- 🪪 Aadhaar & DBT guidance
-- 📄 Document issue detection
-- 🤖 AI scholarship assistant
-- 📚 RAG-based knowledge system
-- 💡 Personalized recommendations
+<ul>
+<li>📷 OCR screenshot analysis</li>
+<li>🔍 Scholarship status analysis</li>
+<li>🧠 Failure diagnosis</li>
+<li>📊 Readiness assessment</li>
+<li>🪪 Aadhaar & DBT guidance</li>
+<li>📄 Document issue detection</li>
+<li>🤖 AI scholarship assistant</li>
+<li>📚 RAG-based knowledge system</li>
+<li>💡 Personalized recommendations</li>
+</ul>
 
-**Tech:**  
+<strong>Tech:</strong>
+
 `React` `Node.js` `Express.js` `Python` `OCR` `RAG`
 
-🔗 [View Repository](https://github.com/Shalinihr1402/ScholarSense-AI-)
+<br><br>
+
+<a href="https://github.com/Shalinihr1402/ScholarSense-AI-">
+  🔗 View Repository
+</a>
 
 </td>
 
@@ -167,56 +198,38 @@ identify application issues and provide actionable guidance.
 
 <td width="50%">
 
-### 🧭 AI Personal Career Counselor
+<h3>🧭 AI Personal Career Counselor</h3>
 
-**AI-Powered Career Guidance & Learning Assistant**
+<strong>AI-Powered Career Guidance & Learning Assistant</strong>
 
+<p>
 An intelligent career guidance application that helps users understand
 their skills, explore career paths and receive personalized recommendations.
+</p>
 
-**Key Features**
+<strong>✨ Key Features</strong>
 
-- 🎯 Career recommendations
-- 🧠 AI skill analysis
-- 📚 Learning roadmaps
-- 💼 Career path suggestions
-- 📈 Skill-gap analysis
-- 🤖 LLM-powered conversations
-- 💡 Personalized learning assistance
+<ul>
+<li>🎯 Career recommendations</li>
+<li>🧠 AI skill analysis</li>
+<li>📚 Learning roadmaps</li>
+<li>💼 Career path suggestions</li>
+<li>📈 Skill-gap analysis</li>
+<li>🤖 LLM-powered conversations</li>
+<li>💡 Personalized learning assistance</li>
+</ul>
 
-**Tech:**  
+<strong>Tech:</strong>
+
 `Python` `AI/ML` `LLM` `FastAPI` `React`
 
-🔗 [View Repository](https://github.com/Shalinihr1402/AI-Personal-Career-Counselor)
+<br><br>
+
+<a href="https://github.com/Shalinihr1402/AI-Personal-Career-Counselor">
+  🔗 View Repository
+</a>
 
 </td>
-
-<td width="50%">
-
-### 👁️ Voice-Vision Assistant for Blind
-
-**AI-Powered Accessibility Assistant**
-
-An accessibility-focused application combining computer vision and voice
-interaction to assist visually impaired users.
-
-**Key Features**
-
-- 🎤 Voice interaction
-- 👁️ Computer vision
-- 🔍 Object detection
-- 🧠 AI-powered visual understanding
-- 🔊 Voice feedback
-- ♿ Accessibility-focused design
-- 📱 Real-time assistance
-
-**Tech:**  
-`Python` `YOLOv5` `OpenCV` `ONNX` `TFLite`
-
-🔗 [View Repository](https://github.com/Shalinihr1402/Voice-Vision-Assistant-for-Blind)
-
-</td>
-
 </tr>
 </table>
 
@@ -232,6 +245,7 @@ how production software is built and maintained.
 ### 🔎 Areas I'm Exploring
 
 - ☕ Java & Spring Boot
+- 🏗️ Hibernate & JPA
 - 🌐 Full Stack Development
 - 🤖 AI / Machine Learning
 - 🧠 LLM Applications
@@ -250,31 +264,39 @@ how production software is built and maintained.
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Shalinihr1402">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinihr1402&theme=tokyo-night&hide_border=true"
-      alt="Shalini's GitHub Activity Graph"
-    />
-  </a>
+
+<a href="https://github.com/Shalinihr1402">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Shalinihr1402&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Shalini's GitHub Stats"
+  />
+</a>
+
+<a href="https://github.com/Shalinihr1402">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalinihr1402&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</a>
+
 </p>
 
 ---
 
-# 📊 GitHub Contributions
+# 🔥 GitHub Streak
 
 <p align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shalinihr1402&theme=tokyonight&hide_border=true)](https://github.com/Shalinihr1402)
+<a href="https://github.com/Shalinihr1402">
+  <img
+    src="https://streak-stats.demolab.com/?user=Shalinihr1402&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</a>
 
-</p>
-
-<p align="center">
-  <a href="https://github.com/Shalinihr1402">
-    View my complete GitHub contribution activity →
-  </a>
 </p>
 
 ---
@@ -291,38 +313,13 @@ how production software is built and maintained.
 🧩 Data Structures & Algorithms
 🌍 Open Source Contributions
 🚀 Software Engineering
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shalini-h-r-90862a251">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shalinidvg16@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Shalinihr1402">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 💡 Developer Philosophy
-
-### Build. Learn. Contribute. Repeat. 🚀
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/shalini-h-r-90862a251"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shalinidvg16@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Shalinihr1402"> <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+💡 Developer Philosophy
+Build. Learn. Contribute. Repeat. 🚀
 
 ⭐ If you find my projects useful, consider giving them a star!
 
----
-
 <p align="center">
-
-### 👩‍💻 From Shalini — building, learning and growing every day 🚀
-
-</p>
+👩‍💻 From Shalini — building, learning and growing every day 🚀
+</p> ```
