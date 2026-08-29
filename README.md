@@ -268,6 +268,18 @@ how production software is built and maintained.
 </a>
 
 </p>
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img
+  src="https://www.gitskins.com/api/section/heatmap?username=Shalinihr1402&theme=github-dark&style=snake"
+  alt="Shalini's GitHub Contribution Snake"
+/>
+
+</p>
 
 ---
 
