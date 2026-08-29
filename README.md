@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shalini
 
-### 🎓 MCA Student | 💻 Full Stack Web Developer | 🚀 Aspiring Software Engineer | 🤖 AI/ML Enthusiast
+<center> ### 🎓 MCA Student | 💻 Full Stack Web Developer | 🚀 Aspiring Software Engineer | 🤖 AI/ML Enthusiast </center>
 
 Building practical full-stack and AI-powered applications while continuously learning,
 solving real-world problems, and working toward becoming a Software Engineer.
@@ -171,32 +171,6 @@ their skills, explore career paths and receive personalized recommendations.
 `Python` `AI/ML` `LLM` `FastAPI` `React`
 
 [🔗 View Repository](https://github.com/Shalinihr1402/AI-Personal-Career-Counselor)
-
-</td>
-
-<td width="50%">
-
-## 👁️ Voice-Vision Assistant
-
-**AI-Powered Accessibility Assistant**
-
-An accessibility-focused application combining computer vision and voice
-interaction to assist visually impaired users.
-
-### ✨ Features
-
-- 🎤 Voice interaction
-- 👁️ Computer vision
-- 🔍 Object detection
-- 🧠 Visual understanding
-- 🔊 Voice feedback
-- ♿ Accessibility-focused
-- 📱 Real-time assistance
-
-**Tech:**  
-`Python` `YOLOv5` `OpenCV` `ONNX` `TFLite`
-
-[🔗 View Repository](https://github.com/Shalinihr1402/Voice-Vision-Assistant-for-Blind)
 
 </td>
 
