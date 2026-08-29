@@ -230,6 +230,42 @@ their skills, explore career paths and receive personalized recommendations.
 </a>
 
 </td>
+
+<td width="50%">
+
+<h3>👁️ Voice-Vision Assistant for Blind</h3>
+
+<strong>AI-Powered Accessibility Assistant</strong>
+
+<p>
+An accessibility-focused application combining computer vision and voice
+interaction to assist visually impaired users.
+</p>
+
+<strong>✨ Key Features</strong>
+
+<ul>
+<li>🎤 Voice interaction</li>
+<li>👁️ Computer vision</li>
+<li>🔍 Object detection</li>
+<li>🧠 AI-powered visual understanding</li>
+<li>🔊 Voice feedback</li>
+<li>♿ Accessibility-focused design</li>
+<li>📱 Real-time assistance</li>
+</ul>
+
+<strong>Tech:</strong>
+
+`Python` `YOLOv5` `OpenCV` `ONNX` `TFLite`
+
+<br><br>
+
+<a href="https://github.com/Shalinihr1402/Voice-Vision-Assistant-for-Blind">
+  🔗 View Repository
+</a>
+
+</td>
+
 </tr>
 </table>
 
@@ -264,24 +300,23 @@ how production software is built and maintained.
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Activity
 
 <p align="center">
 
 <a href="https://github.com/Shalinihr1402">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Shalinihr1402&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Shalini's GitHub Stats"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinihr1402&theme=tokyo-night&hide_border=true"
+    alt="Shalini's GitHub Activity Graph"
   />
 </a>
 
-<a href="https://github.com/Shalinihr1402">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalinihr1402&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</a>
+</p>
 
+<p align="center">
+  <a href="https://github.com/Shalinihr1402">
+    View my complete GitHub contribution activity →
+  </a>
 </p>
 
 ---
@@ -293,17 +328,16 @@ how production software is built and maintained.
 <a href="https://github.com/Shalinihr1402">
   <img
     src="https://streak-stats.demolab.com/?user=Shalinihr1402&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="Shalini's GitHub Streak"
   />
 </a>
 
 </p>
 
 ---
-
 # 🎯 Current Focus
 
-```text
+
 ☕ Java & Spring Boot
 🏗️ Hibernate & JPA
 🌐 Full Stack Web Development
@@ -313,13 +347,10 @@ how production software is built and maintained.
 🧩 Data Structures & Algorithms
 🌍 Open Source Contributions
 🚀 Software Engineering
+
 🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/shalini-h-r-90862a251"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shalinidvg16@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Shalinihr1402"> <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/shalini-h-r-90862a251"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shalini-dvg16@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/Shalinihr1402"> <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
 💡 Developer Philosophy
-Build. Learn. Contribute. Repeat. 🚀
-
-⭐ If you find my projects useful, consider giving them a star!
-
 <p align="center">
-👩‍💻 From Shalini — building, learning and growing every day 🚀
-</p> ```
+Build. Learn. Contribute. Repeat. 🚀
+</p>
