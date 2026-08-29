@@ -291,3 +291,38 @@ how production software is built and maintained.
 🧩 Data Structures & Algorithms
 🌍 Open Source Contributions
 🚀 Software Engineering
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shalini-h-r-90862a251">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shalinidvg16@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Shalinihr1402">
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Developer Philosophy
+
+### Build. Learn. Contribute. Repeat. 🚀
+
+⭐ If you find my projects useful, consider giving them a star!
+
+---
+
+<p align="center">
+
+### 👩‍💻 From Shalini — building, learning and growing every day 🚀
+
+</p>
