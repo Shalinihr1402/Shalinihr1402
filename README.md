@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Shalini
 
 <p align="center">
-  <strong>🎓 MCA Student | 💻 Full Stack Web Developer | 🚀 Aspiring Software Engineer | 🤖 AI/ML Enthusiast</strong>
+  <strong>
+    🎓 MCA Student | 💻 Full Stack Web Developer |
+    🚀 Aspiring Software Engineer | 🤖 AI/ML Enthusiast
+  </strong>
 </p>
 
 <p align="center">
@@ -16,7 +19,7 @@
   <a href="https://github.com/Shalinihr1402">
     <img src="https://img.shields.io/github/stars/Shalinihr1402?style=flat&label=Stars" />
   </a>
-  <a href="mailto:shalinidvg16@gmail.com">
+  <a href="mailto:shalini-dvg16@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -82,7 +85,7 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
 </p>
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/LLM%20Applications-purple?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OCR-AI-orange?style=for-the-badge" />
@@ -112,6 +115,7 @@ A voice-based AI assistant that helps university students access academic
 and administrative information through natural voice interaction.
 
 **Key Features**
+
 - 🎤 Voice-based interaction
 - 🌐 English, Hindi & Kannada
 - 📊 Result & SGPA queries
@@ -139,6 +143,7 @@ An AI-powered scholarship platform designed to analyze scholarship status,
 identify application issues and provide actionable guidance.
 
 **Key Features**
+
 - 📷 OCR screenshot analysis
 - 🔍 Scholarship status analysis
 - 🧠 Failure diagnosis
@@ -170,6 +175,7 @@ An intelligent career guidance application that helps users understand
 their skills, explore career paths and receive personalized recommendations.
 
 **Key Features**
+
 - 🎯 Career recommendations
 - 🧠 AI skill analysis
 - 📚 Learning roadmaps
@@ -195,6 +201,7 @@ An accessibility-focused application combining computer vision and voice
 interaction to assist visually impaired users.
 
 **Key Features**
+
 - 🎤 Voice interaction
 - 👁️ Computer vision
 - 🔍 Object detection
@@ -243,49 +250,31 @@ how production software is built and maintained.
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Shalinihr1402&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Shalini's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shalinihr1402&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Shalinihr1402&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-contribution-grid-snake.svg"
-    />
+  <a href="https://github.com/Shalinihr1402">
     <img
-      src="https://raw.githubusercontent.com/Shalinihr1402/Shalinihr1402/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Shalinihr1402&theme=tokyo-night&hide_border=true"
+      alt="Shalini's GitHub Activity Graph"
     />
-  </picture>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Contributions
+
+<p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shalinihr1402&theme=tokyonight&hide_border=true)](https://github.com/Shalinihr1402)
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/Shalinihr1402">
+    View my complete GitHub contribution activity →
+  </a>
 </p>
 
 ---
