@@ -2,41 +2,51 @@
 
 ### 💻 MCA Student | Full Stack Developer | AI/ML Enthusiast | Open Source Contributor
 
-Building practical web and AI-powered applications while improving my problem-solving and development skills.
+Building practical web and AI-powered applications while continuously learning and improving.
 
 ---
 
 ## 🚀 Featured Projects
 
-🎙️ **GMU VoiceBot Assistant**  
+### 🎙️ GMU VoiceBot Assistant
 Multilingual AI voice assistant for university ERP services.
 
-🎓 **ScholarSense AI**  
+### 🎓 ScholarSense AI
 OCR-based scholarship analysis and decision-support system.
 
-🧭 **AI Career Counselor**  
+### 🧭 AI Career Counselor
 AI-powered career guidance and personalized learning assistance.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
+### 💻 Languages
+
 Java • Python • JavaScript • TypeScript • PHP • SQL
 
-**Web Development:**  
-React • Django • Express.js • Spring Boot • Hibernate • HTML • CSS
+### 🌐 Web Development
 
-**Databases:**  
-MySQL • MongoDB • PostgreSQL • SQLite • Vector Databases
+React • Django • Express.js • Spring Boot  
+Hibernate • HTML • CSS
 
-**AI / ML:**  
-NumPy • Pandas • Scikit-learn • TensorFlow • OpenCV • OCR
+### 🗄️ Databases
 
-**AI Development:**  
-LLM APIs • RAG • ChromaDB • Pinecone • Agentic AI Basics
+MySQL • MongoDB • PostgreSQL  
+SQLite • Vector Databases
 
-**Tools:**  
+### 🤖 AI / ML
+
+NumPy • Pandas • Scikit-learn  
+TensorFlow • OpenCV • OCR
+
+### 🧠 AI Development
+
+LLM APIs • RAG • ChromaDB  
+Pinecone • Agentic AI Basics
+
+### 🔧 Tools
+
 Git • GitHub • REST APIs • Streamlit
 
 ---
@@ -52,9 +62,9 @@ Git • GitHub • REST APIs • Streamlit
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shals1402&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shals1402&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shals1402&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shals1402&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -66,9 +76,9 @@ Git • GitHub • REST APIs • Streamlit
 
 ## 🔗 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/posts/shalini-h-r-90862a251_100-days-of-leetcode-and-still-going-ugcPost-7496582549582880770-MLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/posts/shalini-h-r-90862a251_100-days-of-leetcode-and-still-going-ugcPost-7496582549582880770-MLIO)
 
-[GitHub](https://github.com/Shals1402)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Shals1402)
 
 ---
 
