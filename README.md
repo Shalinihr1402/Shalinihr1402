@@ -1,30 +1,32 @@
-# 👋 Hi, I'm Shalini
+<div align="center">
 
-<p align="center">
-  <strong>
-    🎓 MCA Student | 💻 Full Stack Web Developer |
-    🚀 Aspiring Software Engineer | 🤖 AI/ML Enthusiast
-  </strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6DB33F&height=180&section=header&text=Hi%20There,%20I'm%20Shalini%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<p align="center">
-  Building practical full-stack and AI-powered applications while continuously learning,
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Full+Stack+Web+Developer;Aspiring+Software+Engineer;AI%2FML+Enthusiast+%7C+Open+Source+Contributor" alt="Typing SVG" />
+</a>
+
+<p>
+  Building practical full-stack and AI-powered applications while continuously learning,<br/>
   solving real-world problems, and working toward becoming a Software Engineer.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Shalinihr1402">
-    <img src="https://img.shields.io/github/followers/Shalinihr1402?style=flat&label=Followers" />
-  </a>
-  <a href="https://github.com/Shalinihr1402">
-    <img src="https://img.shields.io/github/stars/Shalinihr1402?style=flat&label=Stars" />
-  </a>
-  <a href="mailto:shalinidvg16@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://github.com/Shalinihr1402">
+  <img src="https://img.shields.io/github/followers/Shalinihr1402?style=for-the-badge&label=Followers&color=0A66C2&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Shalinihr1402">
+  <img src="https://img.shields.io/github/stars/Shalinihr1402?style=for-the-badge&label=Stars&color=6DB33F&logo=star&logoColor=white" />
+</a>
+<a href="mailto:shalinidvg16@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shalini-h-r-90862a251">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
----
+</div>
+
+<br/>
 
 ## 👩‍💻 About Me
 
@@ -37,12 +39,14 @@
 - 🌍 Exploring Open Source and collaborative development
 - 🚀 Aspiring to become a Software Engineer and build scalable software products
 
----
+<br/>
 
 ## 🏆 Highlights
 
+<div align="center">
+
 | 🎯 Area | 💡 Highlights |
-|---|---|
+|:---:|:---|
 | 🎓 Education | MCA Student |
 | 💻 Development | Full Stack Web Development |
 | ☕ Backend | Java • Spring Boot • Hibernate • JPA |
@@ -51,201 +55,178 @@
 | 🌍 Open Source | Open Source Contributor |
 | 🎙️ AI Applications | Voice AI • Computer Vision |
 
----
+</div>
 
-# 🛠️ Tech Stack
+<br/>
 
-## ☕ Java & Backend Development
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/JPA-2C3E50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
-</p>
+**☕ Java & Backend**
 
-## 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate" /><br/>
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c" />
-</p>
+<br/><br/>
 
-## 🌐 Frontend Development
+**💻 Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c" />
 
-## ⚙️ Backend & Frameworks
+<br/><br/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi" />
-</p>
+**🌐 Frontend**
 
-## 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-</p>
+<br/><br/>
 
-## 🤖 AI / Machine Learning
+**⚙️ Backend & Frameworks**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,django,fastapi" />
 
-<p>
-  <img src="https://img.shields.io/badge/LLM%20Applications-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-AI-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OCR-AI-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Agents-green?style=for-the-badge" />
-</p>
+<br/><br/>
 
-## 🔧 Tools & Platforms
+**🗄️ Databases**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 
----
+<br/><br/>
 
-# 🚀 Featured Projects
+**🤖 AI / Machine Learning**
 
-<table>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" /><br/>
+<img src="https://img.shields.io/badge/LLM%20Applications-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OCR-FF8C00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-2E8B57?style=for-the-badge" />
+
+<br/><br/>
+
+**🔧 Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table width="100%">
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🎙️ GMU VoiceBot Assistant
+**Multilingual AI Voice Assistant for University ERP**
 
-<h3>🎙️ GMU VoiceBot Assistant</h3>
-
-<strong>Multilingual AI Voice Assistant for University ERP</strong>
-
-<p>
 A voice-based AI assistant that helps university students access academic
 and administrative information through natural voice interaction.
-</p>
 
-<strong>✨ Key Features</strong>
+**✨ Key Features**
+- 🎤 Voice-based interaction
+- 🌐 English, Hindi & Kannada
+- 📊 Result & SGPA queries
+- 📚 Attendance queries
+- 💰 Fee balance queries
+- 🧑‍🎓 Student information
+- 🧭 Voice-controlled navigation
+- 🤖 LLM-powered intent understanding
+- 🔊 Speech-to-Text & Text-to-Speech
 
-<ul>
-<li>🎤 Voice-based interaction</li>
-<li>🌐 English, Hindi & Kannada</li>
-<li>📊 Result & SGPA queries</li>
-<li>📚 Attendance queries</li>
-<li>💰 Fee balance queries</li>
-<li>🧑‍🎓 Student information</li>
-<li>🧭 Voice-controlled navigation</li>
-<li>🤖 LLM-powered intent understanding</li>
-<li>🔊 Speech-to-Text & Text-to-Speech</li>
-</ul>
-
-<strong>Tech:</strong>
-
-`React` `PHP` `MySQL` `Vapi` `Deepgram` `OpenAI`
-
-<br><br>
+**Tech:** `React` `PHP` `MySQL` `Vapi` `Deepgram` `OpenAI`
 
 <a href="https://github.com/Shalinihr1402/gmu-voice-assistant">
-  🔗 View Repository
+  <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🎓 ScholarSense AI
+**OCR-Driven Scholarship Intelligence & Decision Support System**
 
-<h3>🎓 ScholarSense AI</h3>
-
-<strong>OCR-Driven Scholarship Intelligence & Decision Support System</strong>
-
-<p>
 An AI-powered scholarship platform designed to analyze scholarship status,
 identify application issues and provide actionable guidance.
-</p>
 
-<strong>✨ Key Features</strong>
+**✨ Key Features**
+- 📷 OCR screenshot analysis
+- 🔍 Scholarship status analysis
+- 🧠 Failure diagnosis
+- 📊 Readiness assessment
+- 🪪 Aadhaar & DBT guidance
+- 📄 Document issue detection
+- 🤖 AI scholarship assistant
+- 📚 RAG-based knowledge system
+- 💡 Personalized recommendations
 
-<ul>
-<li>📷 OCR screenshot analysis</li>
-<li>🔍 Scholarship status analysis</li>
-<li>🧠 Failure diagnosis</li>
-<li>📊 Readiness assessment</li>
-<li>🪪 Aadhaar & DBT guidance</li>
-<li>📄 Document issue detection</li>
-<li>🤖 AI scholarship assistant</li>
-<li>📚 RAG-based knowledge system</li>
-<li>💡 Personalized recommendations</li>
-</ul>
-
-<strong>Tech:</strong>
-
-`React` `Node.js` `Express.js` `Python` `OCR` `RAG`
-
-<br><br>
+**Tech:** `React` `Node.js` `Express.js` `Python` `OCR` `RAG`
 
 <a href="https://github.com/Shalinihr1402/ScholarSense-AI-">
-  🔗 View Repository
+  <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 🧭 AI Personal Career Counselor
+**AI-Powered Career Guidance & Learning Assistant**
 
-<h3>🧭 AI Personal Career Counselor</h3>
-
-<strong>AI-Powered Career Guidance & Learning Assistant</strong>
-
-<p>
 An intelligent career guidance application that helps users understand
 their skills, explore career paths and receive personalized recommendations.
-</p>
 
-<strong>✨ Key Features</strong>
+**✨ Key Features**
+- 🎯 Career recommendations
+- 🧠 AI skill analysis
+- 📚 Learning roadmaps
+- 💼 Career path suggestions
+- 📈 Skill-gap analysis
+- 🤖 LLM-powered conversations
+- 💡 Personalized learning assistance
 
-<ul>
-<li>🎯 Career recommendations</li>
-<li>🧠 AI skill analysis</li>
-<li>📚 Learning roadmaps</li>
-<li>💼 Career path suggestions</li>
-<li>📈 Skill-gap analysis</li>
-<li>🤖 LLM-powered conversations</li>
-<li>💡 Personalized learning assistance</li>
-</ul>
-
-<strong>Tech:</strong>
-
-`Python` `AI/ML` `LLM` `FastAPI` `React`
-
-<br><br>
+**Tech:** `Python` `AI/ML` `LLM` `FastAPI` `React`
 
 <a href="https://github.com/Shalinihr1402/AI-Personal-Career-Counselor">
-  🔗 View Repository
+  <img src="https://img.shields.io/badge/🔗_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
+<td width="50%" valign="top">
 
+### ⭐ Want to see more?
+Check out my full list of repositories — always adding new full-stack
+and AI-powered projects as I learn.
+
+<br/>
+
+<a href="https://github.com/Shalinihr1402?tab=repositories">
+  <img src="https://img.shields.io/badge/📂_View_All_Repositories-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
 </tr>
 </table>
 
----
+<br/>
 
-# 🌍 Open Source Journey
+## 🌍 Open Source Journey
 
-### 🟢 Open Source Contributor
+<div align="center">
+
+**🟢 Open Source Contributor**
 
 Currently exploring and contributing to open-source projects while learning
 how production software is built and maintained.
 
+</div>
 
-### 🌱 My Open Source Goals
-
+**🌱 My Open Source Goals**
 - Contribute meaningful fixes and features
 - Learn from experienced developers
 - Improve Git & GitHub workflows
@@ -253,90 +234,83 @@ how production software is built and maintained.
 - Submit quality pull requests
 - Collaborate with developer communities
 
----
+<br/>
 
+## 📊 GitHub Stats
 
-# 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Shalinihr1402&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=Shalinihr1402&theme=tokyonight&hide_border=true" height="165"/>
 
-<a href="https://github.com/Shalinihr1402">
-  <img
-    src="https://streak-stats.demolab.com/?user=Shalinihr1402&theme=tokyonight&hide_border=true"
-    alt="Shalini's GitHub Streak"
-  />
-</a>
+</div>
 
-</p>
----
+<br/>
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <img
   src="https://www.gitskins.com/api/section/heatmap?username=Shalinihr1402&theme=github-dark&style=snake"
   alt="Shalini's GitHub Contribution Snake"
+  width="100%"
 />
 
-</p>
+</div>
 
----
+> 💡 **Want the classic animated "snake eats contributions" GIF instead?** That one is generated by a GitHub Action ([Platane/snk](https://github.com/Platane/snk)) running on your own repo — I can hand you a ready-to-paste workflow file for it if you'd like.
 
-# 🎯 Current Focus
+<br/>
 
-<p align="left">
+## 🎯 Current Focus
 
-☕ <strong>Java & Spring Boot</strong><br>
-🏗️ <strong>Hibernate & JPA</strong><br>
-🌐 <strong>Full Stack Web Development</strong><br>
-🤖 <strong>AI / ML Applications</strong><br>
-🧠 <strong>LLMs & RAG</strong><br>
-🔗 <strong>REST API Development</strong><br>
-🧩 <strong>Data Structures & Algorithms</strong><br>
-🌍 <strong>Open Source Contributions</strong><br>
-🚀 <strong>Software Engineering</strong>
+<div align="center">
 
-</p>
+<img src="https://img.shields.io/badge/Java%20%26%20Spring%20Boot-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate%20%26%20JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Full%20Stack%20Dev-6DB33F?style=for-the-badge&logo=react&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/LLMs%20%26%20RAG-1E90FF?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Software%20Engineering-181717?style=for-the-badge&logo=github&logoColor=white" />
 
----
+</div>
 
-# 🌐 Connect With Me
+<br/>
 
-<p align="center">
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/shalini-h-r-90862a251">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:shalinidvg16@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Shalinihr1402">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
----
+<br/>
 
-# 💡 Developer Philosophy
+<div align="center">
 
-<p align="center">
+### 💡 Build. Learn. Contribute. Repeat. 🚀
 
-### Build. Learn. Contribute. Repeat. 🚀
-
-</p>
-
-<p align="center">
 ⭐ If you find my projects useful, consider giving them a star!
-</p>
 
----
+<br/>
 
-<p align="center">
+**👩‍💻 From Shalini — building, learning and growing every day 🚀**
 
-### 👩‍💻 From Shalini — building, learning and growing every day 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0A66C2&height=100&section=footer" width="100%"/>
 
-</p>
+</div>
