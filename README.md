@@ -200,6 +200,7 @@ their skills, explore career paths and receive personalized recommendations.
 <td width="50%" valign="top">
 
 ### ⭐ Want to see more?
+
 Check out my full list of repositories — always adding new full-stack
 and AI-powered projects as I learn.
 
@@ -224,7 +225,17 @@ and AI-powered projects as I learn.
 Currently exploring and contributing to open-source projects while learning
 how production software is built and maintained.
 
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Contributor%20Tier-Bronze-CD7F32?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/ECSoC26-Open--Source%20Contribution%20Atelier-0A66C2?style=for-the-badge" />
+
 </div>
+
+**🏅 Featured Contribution — ECSoC26**
+
+- **[feat(EnvConfigGenerator): warn when .env values contain unescaped quotes (#3020)](https://github.com/nandinigoyaldev/Open-Source-Contribution-Atelier/pull/3020)** — merged into `nandinigoyaldev/Open-Source-Contribution-Atelier`
+  Added detection and inline warnings for unescaped quote characters in generated `.env` files, preventing silent parsing issues when the file is loaded by Bash or Docker.
+  🏆 Bronze Contributor · 1 merged PR · ECSoC26
 
 **🌱 My Open Source Goals**
 - Contribute meaningful fixes and features
